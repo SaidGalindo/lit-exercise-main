@@ -1,0 +1,21 @@
+*{
+    /* background-color: black; */
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	max-width: 1280px;
+	margin: auto;
+	background-color: darkgray;
+    
+}
+
+button {
+	background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+	outline: inherit;
+}
+
+
